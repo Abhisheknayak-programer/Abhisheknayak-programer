@@ -39,4 +39,4 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknayak-programer&" alt="abhisheknayak-programer" /></p>
 
-<img align="center"  src="https://raw.githubusercontent.com/theakshayraj/Cool-Readme-ideas/main/data/chill%20scene.gif" height="400" width="100%" />
+<img align="center"  src="https://raw.githubusercontent.com/theakshayraj/Cool-Readme-ideas/main/data/chill%20scene.gif" height="600" width="100%" />
