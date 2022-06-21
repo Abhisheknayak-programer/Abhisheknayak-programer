@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknayak-programer&show_icons=true&locale=en" alt="abhisheknayak-programer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknayak-programer&" alt="abhisheknayak-programer" /></p>
+
+<img align="center"  src="https://raw.githubusercontent.com/theakshayraj/Cool-Readme-ideas/main/data/chill%20scene.gif" height="400" width="800" />
