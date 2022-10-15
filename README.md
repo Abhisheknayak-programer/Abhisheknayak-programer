@@ -19,11 +19,10 @@
 
 - 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/abhishek41/](https://www.linkedin.com/in/abhishek41/)
 
-- ⚡ Fun fact **I teach many students on YouTube and learn those concepts from book.**
+- ⚡ Fun fact **I teach many students on YouTube [https://www.youtube.com/channel/UCp9QFNsQ9ZuCUdVEBytP3Rg](https://www.youtube.com/channel/UCp9QFNsQ9ZuCUdVEBytP3Rg)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.youtube.com/c/https://m.youtube.com/channel/ucp9qfnsq9zucudvebytp3rg/featured?view_as=subscriber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucp9qfnsq9zucudvebytp3rg/featured?view_as=subscriber" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishek_nayak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_nayak_" height="30" width="40" /></a>
 <a href="https://twitter.com/abhishe39969350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe39969350" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek41" height="30" width="40" /></a>
