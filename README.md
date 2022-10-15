@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknayak-programer" alt="abhisheknayak-programer" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms & MERN stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://abhisheknayak-programer.github.io/myportfolio/](https://abhisheknayak-programer.github.io/myportfolio/)
 
-- 📝 I regularly write articles on [https://techdaytodays.blogspot.com/?m=1](https://techdaytodays.blogspot.com/?m=1)
+- 📝 I try to solve leetcode problems regularly [https://leetcode.com/Abhishek_Nayak_/](https://leetcode.com/Abhishek_Nayak_/)
 
-- 💬 Ask me about **JavaScript, React, Nodejs**
+- 💬 Ask me about **JavaScript, React, C++ ,Nodejs**
 
 - 📫 How to reach me **webcoder41@gmail.com**
 
-- 📄 Know about my experiences [https://abhisheknayak-programer.github.io/myportfolio/](https://abhisheknayak-programer.github.io/myportfolio/)
+- 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/abhishek41/](https://www.linkedin.com/in/abhishek41/)
 
 - ⚡ Fun fact **I teach many students on YouTube and learn those concepts from book.**
 
