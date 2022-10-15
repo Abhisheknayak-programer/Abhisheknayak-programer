@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **webcoder41@gmail.com**
 
-- 📄 Know about my experiences [https://resumeabhishek.netlify.app/](https://resumeabhishek.netlify.app/)
+- 📄 Know about my experiences [https://abhisheknayak-programer.github.io/myportfolio/](https://abhisheknayak-programer.github.io/myportfolio/)
 
 - ⚡ Fun fact **I teach many students on YouTube and learn those concepts from book.**
 
