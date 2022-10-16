@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://abhisheknayak-programer.github.io/myportfolio/](https://abhisheknayak-programer.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://abhisheknayak.netlify.app/](https://abhisheknayak.netlify.app/)
 
 - 📝 I try to solve leetcode problems regularly [https://leetcode.com/Abhishek_Nayak_/](https://leetcode.com/Abhishek_Nayak_/)
 
