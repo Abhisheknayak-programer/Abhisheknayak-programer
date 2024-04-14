@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="profile" />
+<img width="100%" height="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="profile" />
 
 <h1 align="center">Hi 👋, I'm Abhishek Nayak</h1>
 <h3 align="center">I'm a passionate full-stack developer from India with the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative products.</h3>
