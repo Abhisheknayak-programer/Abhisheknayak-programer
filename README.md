@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknayak-programer&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknayak-programer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknayak-programer" alt="abhisheknayak-programer" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://abhisheknayak.netlify.app/](https://abhisheknayak.netlify.app/)
